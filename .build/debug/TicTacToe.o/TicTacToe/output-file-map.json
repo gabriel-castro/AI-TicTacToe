@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/master.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/State.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/State.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/State.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/State~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/State.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Checks.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Checks.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Checks.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Checks~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Checks.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Utility.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Utility.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Utility.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Utility~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Utility.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/UserInterface.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/UserInterface.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/UserInterface.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/UserInterface~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/UserInterface.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/main.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/main.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/main.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/main~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/main.swiftdeps"
+  },
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Search.swift": {
+    "dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Search.d",
+    "object": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Search.swift.o",
+    "swiftmodule": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Search~partial.swiftmodule",
+    "swift-dependencies": "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe/Search.swiftdeps"
+  }
+}

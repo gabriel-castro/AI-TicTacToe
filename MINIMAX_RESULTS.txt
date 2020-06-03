@@ -1,0 +1,54 @@
+Minimax PC sem otimização
+9
+Elapsed Time: 13.9831059575081 seconds
+Nos gerados até ao momento 549945
+7
+Elapsed Time: 0.166640996932983 seconds
+Nos gerados até ao momento 556756
+5
+Elapsed Time: 0.0158789753913879 seconds
+Nos gerados até ao momento 556941
+3
+Elapsed Time: 0.00167900323867798 seconds
+Nos gerados até ao momento 556956
+1
+Elapsed Time: 0.00029599666595459 seconds
+Nos gerados até ao momento 556957
+
+
+Minimax HUMAN
+8
+Elapsed Time: 1.38037502765656 seconds
+Nos gerados até ao momento 55504
+6
+Elapsed Time: 0.0245870351791382 seconds
+Nos gerados até ao momento 56436
+4
+Elapsed Time: 0.004535973072052 seconds
+Nos gerados até ao momento 56486
+2
+Elapsed Time: 0.000586032867431641 seconds
+Nos gerados até ao momento 56490
+
+
+
+MINIMAX PC com otimização
+9
+Elapsed Time: 1.3524329662323 seconds
+Nos gerados até ao momento 55505
+7
+Elapsed Time: 0.166893005371094 seconds
+Nos gerados até ao momento 62316
+5
+Elapsed Time: 0.00488400459289551 seconds
+Nos gerados até ao momento 62501
+3
+Elapsed Time: 0.00146299600601196 seconds
+Nos gerados até ao momento 62516
+1
+Elapsed Time: 0.000147998332977295 seconds
+Nos gerados até ao momento 62517
+
+
+
+

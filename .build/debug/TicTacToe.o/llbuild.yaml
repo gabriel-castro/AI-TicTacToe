@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<TicTacToe>]
+  TicTacToe: [<TicTacToe>]
+
+commands:
+  <TicTacToe-swiftc>:
+    tool: swift-compiler
+    executable: "/usr/bin/swiftc"
+    inputs: ["/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/State.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Checks.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Utility.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/UserInterface.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/main.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Search.swift"]
+    outputs: ["<TicTacToe-swiftc>","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.swiftmodule","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/State.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Checks.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Utility.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/UserInterface.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/main.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Search.swift.o"]
+    module-name: "TicTacToe"
+    module-output-path: "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.swiftmodule"
+    is-library: false
+    sources: ["/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/State.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Checks.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Utility.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/UserInterface.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/main.swift","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Search.swift"]
+    objects: ["/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/State.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Checks.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Utility.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/UserInterface.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/main.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Search.swift.o"]
+    import-paths: ["/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug"]
+    temps-path: "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/TicTacToe"
+    other-args: ["-j8","-Onone","-g","-I","/usr/local/include","-D","SWIFT_PACKAGE"]
+  <TicTacToe>:
+    tool: shell
+    inputs: ["<TicTacToe-swiftc>","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/State.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Checks.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Utility.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/UserInterface.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/main.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Search.swift.o"]
+    outputs: ["<TicTacToe>","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe"]
+    args: ["/usr/bin/swiftc","-o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/State.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Checks.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Utility.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/UserInterface.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/main.swift.o","/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/.build/debug/TicTacToe.o/Source/TicTacToe/Search.swift.o","-g","-L/usr/local/lib"]
+    description: "Linking Executable:  .build/debug/TicTacToe"

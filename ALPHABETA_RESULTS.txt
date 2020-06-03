@@ -1,0 +1,51 @@
+Alpha Beta PC sem optimização 
+9
+Elapsed Time: 0.653124988079071 seconds
+Nos gerados até ao momento 25226
+7
+Elapsed Time: 0.0401870012283325 seconds
+Nos gerados até ao momento 26327
+5
+Elapsed Time: 0.00749796628952026 seconds
+Nos gerados até ao momento 26428
+3
+Elapsed Time: 0.000768005847930908 seconds
+Nos gerados até ao momento 26441
+1
+Elapsed Time: 0.00025099515914917 seconds
+Nos gerados até ao momento 26442
+
+
+Alpha Beta HUMAN
+8
+Elapsed Time: 0.134700000286102 seconds
+Nos gerados até ao momento 3276
+6
+Elapsed Time: 0.0255129933357239 seconds
+Nos gerados até ao momento 3598
+4
+Elapsed Time: 0.00267201662063599 seconds
+Nos gerados até ao momento 3636
+2
+Elapsed Time: 0.000414013862609863 seconds
+Nos gerados até ao momento 3640
+
+
+
+Alpha Beta PC com otimização
+9
+Elapsed Time: 0.141138017177582 seconds
+Nos gerados até ao momento 3277
+7
+Elapsed Time: 0.0433240532875061 seconds
+Nos gerados até ao momento 4378
+5
+Elapsed Time: 0.00857901573181152 seconds
+Nos gerados até ao momento 4479
+3
+Elapsed Time: 0.00119096040725708 seconds
+Nos gerados até ao momento 4492
+1
+Elapsed Time: 0.000225961208343506 seconds
+Nos gerados até ao momento 4493
+

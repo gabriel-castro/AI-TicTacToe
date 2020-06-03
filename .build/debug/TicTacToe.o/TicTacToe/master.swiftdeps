@@ -1,0 +1,10 @@
+version: "Swift version 2.2-dev (LLVM 524cfeb800, Clang f66c5bb67b, Swift 870696170f)"
+options: "72ef23cb0c6123787d18686bac0d67ba"
+build_time: [515865693, 919451000]
+inputs:
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/State.swift": [513385774, 0]
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Checks.swift": [513386202, 0]
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Utility.swift": [513385723, 0]
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/UserInterface.swift": [513970058, 0]
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/main.swift": [513613604, 0]
+  "/home/gabriel/Dropbox/Aulas/AI/trab2/TicTacToe-Swift/Source/TicTacToe/Search.swift": [513796754, 0]
